@@ -93,7 +93,7 @@ while run:
             x_start = 0
             text_display(b[i], x_start, y_start)
             x_start += x_separator
-
+        
 
     pygame.display.update()
 
